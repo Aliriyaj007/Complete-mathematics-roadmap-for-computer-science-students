@@ -3,7 +3,7 @@
 ## **Phase 0: Foundation Building (Pre-University/Review)**
 *Duration: 1-3 months*
 
-### **[Basic Arithmetic & Pre-Algebra]**(Basic Arithmetic & Pre-Algebra.md)
+### **Basic Arithmetic & Pre-Algebra**
 - Number systems (integers, fractions, decimals)
 - Order of operations (PEMDAS/BODMAS)
 - Factors, multiples, primes
